@@ -1,0 +1,6 @@
+logging.level.root: INFO
+spring:
+  application.name: ws-marble
+  cloud.config.enabled: false
+  server.port : 8080
+  server.context-path : /wsmarbleapi
